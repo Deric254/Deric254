@@ -1,6 +1,6 @@
 # Hi, I'm Deric Mwiti Marangu 👋
 **Data Analyst & Business Intelligence Developer**  
-📍 Nairobi, Kenya |  dericmarangu@gmail.com |  [dericbi.vercel.app](https://dericbi.vercel.app)
+ Nairobi, Kenya |  dericmarangu@gmail.com |  [dericbi.vercel.app](https://dericbi.vercel.app)
 
 ---
 
